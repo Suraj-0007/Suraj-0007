@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar Subudhi</h1>
 <h3 align="center">A passionate MERN-Stack developer and a Machine Learning Engineer from India</h3>
 
-- 🔭 I’m currently working on **AI Interview Web App**
+- 🔭 I’m currently working as **Python Developer**
 
-- 🌱 I’m currently learning **MERN Stack Frameworks**
+- 🌱 I’m currently learning **MERN Stack Frameworks and AI**
 
 - 👨‍💻 All of my projects are available at [https://surajkumar-portfolio.vercel.app/](https://surajkumar-portfolio.vercel.app/)
 
