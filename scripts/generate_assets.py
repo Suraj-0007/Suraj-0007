@@ -4,7 +4,8 @@ Run: python -m pip install Pillow && python scripts/generate_assets.py
 """
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageFilter
-import math, html, re
+import math, html, re, os
+from functools import lru_cache
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT/'assets'
@@ -12,15 +13,54 @@ ASSETS.mkdir(parents=True,exist_ok=True)
 PHOTO = ASSETS/'portrait.jpg'
 W,H = 1120,380
 BG=(245,243,239); PAPER=(252,251,248); INK=(24,24,24); MUTED=(100,100,98); LINE=(215,211,205); SOFT=(231,228,221)
-FONTDIR='/usr/share/fonts/opentype/inter'
-MONO='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf'
+# Cross-platform fonts: use installed system fonts. Never require Linux paths
+# or distribute proprietary fonts with the README source archive.
+@lru_cache(maxsize=40)
+def _load_font(style: str, size: int):
+    windows_fonts = Path(os.environ.get('WINDIR', r'C:\Windows')) / 'Fonts'
+    inter_fonts = Path('/usr/share/fonts/opentype/inter')
+    linux_fonts = Path('/usr/share/fonts/truetype/dejavu')
+    mac_fonts = Path('/System/Library/Fonts/Supplemental')
+    if style == 'mono':
+        candidates = [
+            os.environ.get('PROFILE_README_MONO_FONT'),
+            windows_fonts / 'consola.ttf',
+            windows_fonts / 'cour.ttf',
+            linux_fonts / 'DejaVuSansMono.ttf',
+            mac_fonts / 'Menlo.ttc',
+            mac_fonts / 'Courier New.ttf',
+            'DejaVuSansMono.ttf',
+        ]
+    else:
+        bold = style == 'Bold'
+        candidates = [
+            os.environ.get('PROFILE_README_FONT'),
+            inter_fonts / f'InterDisplay-{style}.otf',
+            windows_fonts / ('arialbd.ttf' if bold else 'arial.ttf'),
+            windows_fonts / ('segoeuib.ttf' if bold else 'segoeui.ttf'),
+            windows_fonts / ('calibrib.ttf' if bold else 'calibri.ttf'),
+            mac_fonts / ('Arial Bold.ttf' if bold else 'Arial.ttf'),
+            linux_fonts / ('DejaVuSans-Bold.ttf' if bold else 'DejaVuSans.ttf'),
+            'DejaVuSans-Bold.ttf' if bold else 'DejaVuSans.ttf',
+        ]
+    for item in candidates:
+        if not item:
+            continue
+        try:
+            return ImageFont.truetype(str(item), size)
+        except (OSError, ValueError):
+            continue
+    # Pillow's bundled fallback works without additional font installations.
+    try:
+        return ImageFont.load_default(size=size)
+    except TypeError:  # Older Pillow versions
+        return ImageFont.load_default()
 
-def font(name,size):
-    f=Path(FONTDIR)/('InterDisplay-'+name+'.otf')
-    if not f.exists():f=Path('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf')
-    return ImageFont.truetype(str(f),size)
+def font(name, size):
+    return _load_font(name, size)
 
-def monofont(size):return ImageFont.truetype(MONO,size)
+def monofont(size):
+    return _load_font('mono', size)
 
 if PHOTO.exists():
     src = Image.open(PHOTO).convert('RGB')
@@ -152,8 +192,8 @@ for row,(label,vals) in enumerate(families):
 svg('stack.svg',1100,428,'\n'.join(l))
 
 # Centered monochrome link badges used as UI-like controls, not real CSS buttons
-for short,label in [('mail','EMAIL ME'),('linkedin','LINKEDIN'),('source','PORTFOLIO CODE')]:
-    widths={'mail':224,'linkedin':224,'source':268}
+for short,label in [('mail','EMAIL ME'),('linkedin','LINKEDIN'),('portfolio','VISIT PORTFOLIO')]:
+    widths={'mail':224,'linkedin':224,'portfolio':268}
     ww=widths[short]
     content='\n'.join([
       f'<rect x="1.5" y="1.5" width="{ww-3}" height="54" rx="27" fill="{INK and "#171717" if short=="mail" else "#f4f2ee"}" stroke="#171717" stroke-width="2"/>',

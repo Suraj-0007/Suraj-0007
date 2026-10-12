@@ -16,7 +16,7 @@
 <div align="center">
   <a href="mailto:surajkumarsubudhi20@gmail.com"><img src="./assets/btn-mail.svg" height="43" alt="Email Suraj" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/suraj-kumar-subudhi-23115a258/"><img src="./assets/btn-linkedin.svg" height="43" alt="Connect on LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/Suraj-0007/MyPortfolio/tree/master"><img src="./assets/btn-source.svg" height="43" alt="View portfolio source code" /></a>
+  <a href="https://suraj.devstacks.in"><img src="./assets/btn-portfolio.svg" height="43" alt="Visit Suraj personal portfolio website" /></a>
 </div>
 
 <div align="center">
@@ -67,7 +67,7 @@ class Suraj:
 - [**AI Interview Web App**](https://ai-interview-app-gamma.vercel.app/) — adaptive, role-specific questions and AI-generated feedback with **Next.js, Gemini AI, Clerk, and Drizzle ORM**.
 - [**ResolverAI**](https://resolver-ai.vercel.app/) — responsive AI conversation interface using **React, Vite, Tailwind CSS, and Gemini AI**.
 - [**Any Video Downloader**](https://social-media-video-downloader-two.vercel.app/) — supported-link processing and backend logging with **React, Node.js, Express, and MongoDB**.
-- [**Personal Portfolio**](https://github.com/Suraj-0007/MyPortfolio/tree/master) — interactive, responsive portfolio using **Next.js, React, TypeScript, and CSS**. [Explore the source](https://github.com/Suraj-0007/MyPortfolio/tree/master).
+- [**Personal Portfolio**](https://suraj.devstacks.in) — interactive, responsive portfolio using **Next.js, React, TypeScript, and CSS**.
 
 <br />
 
@@ -131,7 +131,7 @@ C. V. Raman Global University · CGPA <strong>8.54/10</strong>.
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/suraj-kumar-subudhi-23115a258/"><strong>LinkedIn</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/Suraj-0007/MyPortfolio/blob/master/public/resume.pdf"><strong>Résumé</strong></a>
+  <a href="https://suraj.devstacks.in/resume.pdf"><strong>Résumé</strong></a>
 </p>
 
 <div align="center">
