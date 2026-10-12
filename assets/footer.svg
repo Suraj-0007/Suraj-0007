@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="124" viewBox="0 0 1100 124" role="img" aria-label="footer.svg">
+<rect x="1" y="1" width="1098" height="122" rx="21" fill="#f4f2ee" stroke="#d4d0c9" stroke-width="2"/>
+<text x="31" y="36" font-family="monospace" font-size="12" fill="#77756f" letter-spacing="2">THE NEXT BUILD STARTS WITH A CONVERSATION</text>
+<text x="31" y="90" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#171717" letter-spacing="-1.5">Let's build something useful.</text>
+<path d="M974 64 L1057 64 M1037 46 L1057 64 L1037 82" stroke="#171717" stroke-width="3" fill="none"/>
+<circle cx="974" cy="64" r="5" fill="#171717"><animate attributeName="cx" values="954;1008;954" dur="4s" repeatCount="indefinite"/></circle>
+</svg>

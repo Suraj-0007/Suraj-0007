@@ -1,0 +1,41 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="1100" height="462" viewBox="0 0 1100 462" role="img" aria-label="Four selected project cards"><ns0:svg x="16" y="10" width="534" height="212" viewBox="0 0 534 212"><ns0:rect x="1.5" y="1.5" width="531" height="209" rx="21" fill="#f4f2ee" stroke="#d4d0c9" stroke-width="2" />
+<ns0:circle cx="38" cy="36" r="15" fill="#1b1b1b" />
+<ns0:text x="38" y="41" text-anchor="middle" fill="white" font-size="12" font-weight="700" font-family="Arial, sans-serif">01</ns0:text>
+<ns0:text x="64" y="41" fill="#77756f" font-family="monospace" font-size="10" letter-spacing="1.5">AI-POWERED INTERVIEW PREP</ns0:text>
+<ns0:text x="27" y="97" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" letter-spacing="-1">AI Interview Web App</ns0:text>
+<ns0:text x="27" y="132" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">Role-specific questions, voice feedback,</ns0:text>
+<ns0:text x="27" y="153" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">and Gemini-powered evaluation.</ns0:text>
+<ns0:line x1="27" y1="174" x2="506" y2="174" stroke="#d4d0c9" />
+<ns0:text x="27" y="195" fill="#77756f" font-family="monospace" font-size="11">NEXT.JS  /  REACT  /  GEMINI</ns0:text>
+<ns0:path d="M477 40 L495 22 M484 22 H495 V33" stroke="#171717" stroke-width="2" fill="none" stroke-linecap="round"><ns0:animateTransform attributeName="transform" type="translate" values="0 0;3 -3;0 0" dur="4s" begin="0.25s" repeatCount="indefinite" /></ns0:path>
+</ns0:svg><ns0:svg x="566" y="10" width="534" height="212" viewBox="0 0 534 212"><ns0:rect x="1.5" y="1.5" width="531" height="209" rx="21" fill="#f4f2ee" stroke="#d4d0c9" stroke-width="2" />
+<ns0:circle cx="38" cy="36" r="15" fill="#1b1b1b" />
+<ns0:text x="38" y="41" text-anchor="middle" fill="white" font-size="12" font-weight="700" font-family="Arial, sans-serif">02</ns0:text>
+<ns0:text x="64" y="41" fill="#77756f" font-family="monospace" font-size="10" letter-spacing="1.5">CONVERSATIONAL AI</ns0:text>
+<ns0:text x="27" y="97" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" letter-spacing="-1">ResolverAI</ns0:text>
+<ns0:text x="27" y="132" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">A responsive AI conversation interface</ns0:text>
+<ns0:text x="27" y="153" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">built with Gemini and React.</ns0:text>
+<ns0:line x1="27" y1="174" x2="506" y2="174" stroke="#d4d0c9" />
+<ns0:text x="27" y="195" fill="#77756f" font-family="monospace" font-size="11">REACT  /  VITE  /  TAILWIND</ns0:text>
+<ns0:path d="M477 40 L495 22 M484 22 H495 V33" stroke="#171717" stroke-width="2" fill="none" stroke-linecap="round"><ns0:animateTransform attributeName="transform" type="translate" values="0 0;3 -3;0 0" dur="4s" begin="0.5s" repeatCount="indefinite" /></ns0:path>
+</ns0:svg><ns0:svg x="16" y="235" width="534" height="212" viewBox="0 0 534 212"><ns0:rect x="1.5" y="1.5" width="531" height="209" rx="21" fill="#f4f2ee" stroke="#d4d0c9" stroke-width="2" />
+<ns0:circle cx="38" cy="36" r="15" fill="#1b1b1b" />
+<ns0:text x="38" y="41" text-anchor="middle" fill="white" font-size="12" font-weight="700" font-family="Arial, sans-serif">03</ns0:text>
+<ns0:text x="64" y="41" fill="#77756f" font-family="monospace" font-size="10" letter-spacing="1.5">FULL-STACK UTILITY</ns0:text>
+<ns0:text x="27" y="97" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" letter-spacing="-1">Any Video Downloader</ns0:text>
+<ns0:text x="27" y="132" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">A web utility for supported video links,</ns0:text>
+<ns0:text x="27" y="153" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">validation, and backend logging.</ns0:text>
+<ns0:line x1="27" y1="174" x2="506" y2="174" stroke="#d4d0c9" />
+<ns0:text x="27" y="195" fill="#77756f" font-family="monospace" font-size="11">REACT  /  NODE.JS  /  MONGODB</ns0:text>
+<ns0:path d="M477 40 L495 22 M484 22 H495 V33" stroke="#171717" stroke-width="2" fill="none" stroke-linecap="round"><ns0:animateTransform attributeName="transform" type="translate" values="0 0;3 -3;0 0" dur="4s" begin="0.75s" repeatCount="indefinite" /></ns0:path>
+</ns0:svg><ns0:svg x="566" y="235" width="534" height="212" viewBox="0 0 534 212"><ns0:rect x="1.5" y="1.5" width="531" height="209" rx="21" fill="#f4f2ee" stroke="#d4d0c9" stroke-width="2" />
+<ns0:circle cx="38" cy="36" r="15" fill="#1b1b1b" />
+<ns0:text x="38" y="41" text-anchor="middle" fill="white" font-size="12" font-weight="700" font-family="Arial, sans-serif">04</ns0:text>
+<ns0:text x="64" y="41" fill="#77756f" font-family="monospace" font-size="10" letter-spacing="1.5">INTERACTIVE PERSONAL WEBSITE</ns0:text>
+<ns0:text x="27" y="97" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" letter-spacing="-1">Personal Portfolio</ns0:text>
+<ns0:text x="27" y="132" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">A motion-conscious, responsive portfolio</ns0:text>
+<ns0:text x="27" y="153" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">built with Next.js and TypeScript.</ns0:text>
+<ns0:line x1="27" y1="174" x2="506" y2="174" stroke="#d4d0c9" />
+<ns0:text x="27" y="195" fill="#77756f" font-family="monospace" font-size="11">NEXT.JS  /  TYPESCRIPT  /  CSS</ns0:text>
+<ns0:path d="M477 40 L495 22 M484 22 H495 V33" stroke="#171717" stroke-width="2" fill="none" stroke-linecap="round"><ns0:animateTransform attributeName="transform" type="translate" values="0 0;3 -3;0 0" dur="4s" begin="1.0s" repeatCount="indefinite" /></ns0:path>
+</ns0:svg></ns0:svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="534" height="212" viewBox="0 0 534 212" role="img" aria-label="project-01.svg">
+<rect x="1.5" y="1.5" width="531" height="209" rx="21" fill="#f4f2ee" stroke="#d4d0c9" stroke-width="2"/>
+<circle cx="38" cy="36" r="15" fill="#1b1b1b"/>
+<text x="38" y="41" text-anchor="middle" fill="white" font-size="12" font-weight="700" font-family="Arial, sans-serif">01</text>
+<text x="64" y="41" fill="#77756f" font-family="monospace" font-size="10" letter-spacing="1.5">AI-POWERED INTERVIEW PREP</text>
+<text x="27" y="97" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" letter-spacing="-1">AI Interview Web App</text>
+<text x="27" y="132" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">Role-specific questions, voice feedback,</text>
+<text x="27" y="153" fill="#5a5956" font-family="Arial, sans-serif" font-size="16">and Gemini-powered evaluation.</text>
+<line x1="27" y1="174" x2="506" y2="174" stroke="#d4d0c9"/>
+<text x="27" y="195" fill="#77756f" font-family="monospace" font-size="11">NEXT.JS  /  REACT  /  GEMINI</text>
+<path d="M477 40 L495 22 M484 22 H495 V33" stroke="#171717" stroke-width="2" fill="none" stroke-linecap="round"><animateTransform attributeName="transform" type="translate" values="0 0;3 -3;0 0" dur="4s" begin="0.25s" repeatCount="indefinite"/></path>
+</svg>

@@ -1,26 +1,139 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar Subudhi</h1>
-<h3 align="center">A passionate MERN-Stack developer and a Machine Learning Engineer from India</h3>
+<!--
+  SURAJ KUMAR SUBUDHI — GitHub Profile / Monochrome Edition
+  Designed for GitHub's Markdown renderer: no scripts, injected CSS, or external image APIs.
+  All artwork is hosted in ./assets so the README works without a separate website.
+-->
 
-- 🔭 I’m currently working as **Python Developer**
+<div align="center">
+  <picture>
+    <source srcset="./assets/hero.webp" type="image/webp" />
+    <img src="./assets/hero.gif" alt="Animated portrait banner of Suraj Kumar Subudhi, Python Developer, AI and Full-Stack Developer from Bhubaneswar, India" width="100%" />
+  </picture>
+</div>
 
-- 🌱 I’m currently learning **MERN Stack Frameworks and AI**
+<br />
 
-- 👨‍💻 All of my projects are available at [https://surajkumar-portfolio.vercel.app/](https://surajkumar-portfolio.vercel.app/)
+<div align="center">
+  <a href="mailto:surajkumarsubudhi20@gmail.com"><img src="./assets/btn-mail.svg" height="43" alt="Email Suraj" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/suraj-kumar-subudhi-23115a258/"><img src="./assets/btn-linkedin.svg" height="43" alt="Connect on LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/Suraj-0007/MyPortfolio/tree/master"><img src="./assets/btn-source.svg" height="43" alt="View portfolio source code" /></a>
+</div>
 
-- 📫 How to reach me **surajkumarsubudhi20@gmail.com**
+<div align="center">
+  <sub>PYTHON DEVELOPMENT &nbsp;·&nbsp; APPLIED AI &nbsp;·&nbsp; FULL-STACK ENGINEERING</sub>
+</div>
 
-- 📄 Know about my experiences [https://surajkumar-portfolio.vercel.app/resume/Suraj_Kumar_Subudhi_Resume.pdf](https://surajkumar-portfolio.vercel.app/resume/Suraj_Kumar_Subudhi_Resume.pdf)
+<br />
 
-- ⚡ Fun fact **I believe "Hello World" is the most optimistic thing we say to our computers.**
+## About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suraj-kumar-subudhi-23115a258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-kumar-subudhi-23115a258" height="30" width="40" /></a>
-<a href="https://instagram.com/_kumar_suraj07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kumar_suraj07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/surajkumarsubudhi20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="[https://www.geeksforgeeks.org/user/surajkumarsubudhi20/](https://www.geeksforgeeks.org/user/surajkumarsubudhi20/)" height="30" width="40" /></a>
+### Engineering practical intelligence.
+
+I'm **Suraj Kumar Subudhi**, a **Python Developer at QuestionLab Inc** and an AI-focused full-stack developer based in **Bhubaneswar, Odisha, India**.
+
+My work spans machine-learning pipelines, reliable backend APIs, data systems, and product interfaces. I enjoy taking a problem from **unclear requirements to useful, production-oriented software**.
+
+Currently focused on **applied AI, system performance, and end-to-end product engineering**.
+
+<details>
+<summary><strong>My approach, in Python</strong></summary>
+
+```python
+class Suraj:
+    role = "Python Developer"
+    focus = ["Applied AI", "Backend Systems", "Full-Stack Apps"]
+
+    def approach(self):
+        return "Design. Build. Improve."
+```
+
+</details>
+
+<sub>NOW — Permanent Python Developer, QuestionLab Inc &nbsp; | &nbsp; PREVIOUSLY — ML Intern, NSTL–DRDO</sub>
+
+<br />
+
+## Selected work
+
+<sub>REAL APPLICATIONS &nbsp;/&nbsp; SELECTED PROJECTS</sub>
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/projects-mobile.svg" />
+    <img src="./assets/projects-desktop.svg" alt="Four illustrated project cards: AI Interview Web App, ResolverAI, Any Video Downloader, and Personal Portfolio" width="100%" />
+  </picture>
+</div>
+
+- [**AI Interview Web App**](https://ai-interview-app-gamma.vercel.app/) — adaptive, role-specific questions and AI-generated feedback with **Next.js, Gemini AI, Clerk, and Drizzle ORM**.
+- [**ResolverAI**](https://resolver-ai.vercel.app/) — responsive AI conversation interface using **React, Vite, Tailwind CSS, and Gemini AI**.
+- [**Any Video Downloader**](https://social-media-video-downloader-two.vercel.app/) — supported-link processing and backend logging with **React, Node.js, Express, and MongoDB**.
+- [**Personal Portfolio**](https://github.com/Suraj-0007/MyPortfolio/tree/master) — interactive, responsive portfolio using **Next.js, React, TypeScript, and CSS**. [Explore the source](https://github.com/Suraj-0007/MyPortfolio/tree/master).
+
+<br />
+
+## The toolkit
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/stack-mobile.svg" />
+    <img src="./assets/stack.svg" width="100%" alt="Technology stack: Python, JavaScript, Java, SQL, React, Next.js, TypeScript, Tailwind CSS, Django, Node.js, Express.js, MongoDB, MySQL, Redis, CatBoost, TensorFlow, NLP, Azure, Docker, Git and CI/CD" />
+  </picture>
+</div>
+
+**Backend and data:** Python · Django · REST APIs · Node.js · Express.js · MongoDB · MySQL · Redis  
+**Interfaces:** React · Next.js · JavaScript · TypeScript · Tailwind CSS  
+**AI and infrastructure:** Machine learning · CatBoost · TensorFlow · NLP · Azure · Docker · Git · CI/CD
+
+<br />
+
+## Experience and milestones
+
+<blockquote>
+<strong>FEB 2026 — PRESENT / PYTHON DEVELOPER · PERMANENT</strong><br />
+QuestionLab Inc — applied machine learning, API development, AI-assisted business workflows, and React-based integrations.
+</blockquote>
+
+<blockquote>
+<strong>OCT 2025 — FEB 2026 / PYTHON DEVELOPER · CONTRACTUAL</strong><br />
+QuestionLab Inc — AI-enabled recruitment systems and Azure-integrated REST services.
+</blockquote>
+
+<blockquote>
+<strong>DEC 2023 — JAN 2024 / MACHINE LEARNING INTERN</strong><br />
+NSTL–DRDO — underwater-drag estimation and regression modeling.
+</blockquote>
+
+<blockquote>
+<strong>2021 — 2025 / B.TECH, AI & DATA SCIENCE</strong><br />
+C. V. Raman Global University · CGPA <strong>8.54/10</strong>.
+</blockquote>
+
+<details>
+<summary><strong>Credentials and achievements — view details</strong></summary>
+<br />
+
+- **Microsoft Certified: Azure Data Scientist Associate (DP-100)** — score **881/1000**.
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — score **952/1000**.
+- **Naukri Campus Aptitude Test (NCAT)** — **All India Rank 178**, top **0.5%**.
+
+</details>
+
+<br />
+
+## Find me
+
+<div align="center">
+  <a href="mailto:surajkumarsubudhi20@gmail.com"><img src="./assets/footer.svg" alt="Let's build something useful — contact Suraj by email" width="100%" /></a>
+</div>
+
+<p align="center">
+  <a href="mailto:surajkumarsubudhi20@gmail.com"><strong>Email</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/suraj-kumar-subudhi-23115a258/"><strong>LinkedIn</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Suraj-0007/MyPortfolio/blob/master/public/resume.pdf"><strong>Résumé</strong></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-0007&show_icons=true&locale=en&layout=compact" alt="suraj-0007" /></p>
+<div align="center">
+  <sub>INTENTIONAL DESIGN. PRACTICAL SOFTWARE. CONTINUOUS IMPROVEMENT.</sub>
+</div>
